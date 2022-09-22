@@ -4,7 +4,7 @@ add below maven dependency in pom.xml:<br />
 			<groupId>org.jsoup</groupId>
 			<artifactId>jsoup</artifactId>
 			<version>1.10.2</version>
-			</dependency><>br /
+			</dependency><br />
  Once we start application need to use route url and  pass parameter value of url and text(that we want to search) for example:
 1- http://<Domain>:<PORT>/getLinks <br />
 2- {
