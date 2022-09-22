@@ -7,11 +7,10 @@
 			<artifactId>jsoup</artifactId>
 			<version>1.10.2</version>
 		</dependency>
-		
- ### Once we start application need to use route url and  pass parameter value of url and text(that we want to search) for example.
-* http://<\Domain\>:<\PORT\>/getLinks <br />
+###### Once we start application need to use route url and  pass parameter value of url and text(that we want to search) for example.
+* http://[Domain]:[PORT]/getLinks <br />
 * {
-	"url":"</URL\>",
-	"text":"<TEXT>"
+	"url":"[URL]",
+	"text":"[TEXT]"
    }
 
